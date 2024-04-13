@@ -1,0 +1,1076 @@
+/*GENERAL*/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+ /* MENU */
+  
+ .frame .menu {
+  position: absolute;
+  width: 100%;
+  height: 126px;
+  top: 0;
+  left: 1px;
+  background-color: #202332;
+}
+
+.frame .text-wrapper-19 {
+  position: absolute;
+  top: 44px;
+  left: 75%;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Italiana-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-20 {
+  position: absolute;
+  top: 44px;
+  left: 63%;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Italiana-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-21 {
+  position: absolute;
+  top: 44px;
+  left: 35%;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Italiana-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-23 {
+  position: absolute;
+  top: 44px;
+  left: 739px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Italiana-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .logo-2 {
+  position: absolute;
+  width: 200px;
+  height: 110px;
+  top: 18px;
+  left: 69px;
+}
+
+.frame .text-wrapper-22 {
+  position: absolute;
+  width: 137px;
+  top: 63px;
+  left: 0;
+  -webkit-text-stroke: 0.3px #ffffff;
+  font-family: "Italiana-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .steering-wheel {
+  position: absolute;
+  width: 80px;
+  height: 140px;
+  top: -40px;
+  left: 13%;
+}
+
+
+.frame {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .overlap-wrapper {
+    width: 100%;
+    height: 2497px;
+  }
+  
+  .frame .overlap {
+    position: relative;
+    height: 2497px;
+  }
+  
+  .frame .color-fondo {
+    position: absolute;
+    width: 100%;
+    height: 2496px;
+    top: 0;
+    left: 1px;
+    background-color: #d5d4d4;
+  }
+
+  /* IMAGENES */
+
+  .frame .image-1 {
+    position: absolute;
+    width: 150%;
+    height: 100%;
+    top: 10%;
+    left: -10%;
+    object-fit: cover;
+  }
+
+  .frame .image-2 {
+    position: absolute;
+    width: 110%;
+    height: 215px;
+    top: 80px;
+    left: -5%;
+    object-fit: cover;
+  }
+
+  .frame .image-3 {
+    position: absolute;
+    width: 130%;
+    height: 222px;
+    top: 70px;
+    left: -10%;
+    object-fit: cover;
+  }
+
+  .frame .image-4 {
+    position: absolute;
+    width: 110%;
+    height: 80%;
+    top: 20%;
+    left: 0;
+  }
+
+  .frame .image-5 {
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    top: 5%;
+    left: 0;
+  }
+
+  .frame .image-6 {
+    position: absolute;
+    width: 110%;
+    height: 65%;
+    top: 67px;
+    left: 0;
+  }
+
+  .frame .image-7 {
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    top: 10%;
+    left: 5%;
+  }
+
+  .frame .image-8 {
+    position: absolute;
+    width: 90%;
+    height: 80%;
+    top: 7%;
+    left: 10%;
+  }
+
+  .frame .image-9 {
+    position: absolute;
+    width: 90%;
+    height: 70%;
+    top: 10%;
+    left: 5%;
+  }
+
+
+  /* VEHICULOS SECCION */
+  .frame .vehiculos-electricos {
+    position: absolute;
+    width: 1166px;
+    height: 489px;
+    top: 172px;
+    left: 150px;
+  }
+  
+  .frame .overlap-group-wrapper {
+    width: 316px;
+    top: 120px;
+    left: 850px;
+    position: absolute;
+    height: 369px;
+  }
+  
+  .frame .rectangle-3 {
+    position: absolute;
+    width: 305px;
+    height: 369px;
+    top: 0;
+    left: 6px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+  }
+  
+  .frame .rectangle-4 {
+    top: 295px;
+    left: 6px;
+    position: absolute;
+    width: 305px;
+    height: 74px;
+    background-color: #202331;
+    border-radius: 0px 0px 30px 30px;
+  }
+  
+  .frame .rectangle-5 {
+    left: 6px;
+    position: absolute;
+    width: 305px;
+    height: 74px;
+    top: 0;
+    background-color: #202331;
+    border-radius: 30px 30px 0px 0px;
+  }
+  
+  .frame .text-wrapper-17 {
+    position: absolute;
+    top: 8px;
+    left: 81px;
+    -webkit-text-stroke: 0.6px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+
+  
+  .frame .reservar-5 {
+    position: absolute;
+    top: 311px;
+    left: 103px;
+    display: flex;
+    width: 3%;
+    height: 7%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 8px 81px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    overflow: hidden;
+  }
+  
+  .frame .caja-articulo-6 {
+    width: 305px;
+    top: 120px;
+    left: 428px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    position: absolute;
+    height: 369px;
+  }
+  
+  
+  .frame .caja-articulo-7 {
+    width: 305px;
+    top: 120px;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    position: absolute;
+    height: 369px;
+  }
+  
+  .frame .overlap-4 {
+    height: 291px;
+    top: 0;
+    position: absolute;
+    width: 305px;
+    left: 0;
+  }
+  
+  
+  .frame .text-wrapper-18 {
+    position: absolute;
+    top: -2px;
+    left: 367px;
+    -webkit-text-stroke: 1px #202332;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #202332;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+
+   /* MOTOS SECCION */
+   .frame .motos-electricas {
+    position: absolute;
+    width: 1161px;
+    height: 493px;
+    top: 718px;
+    left: 150px;
+  }
+  
+  .frame .caja-articulo-3 {
+    width: 305px;
+    top: 124px;
+    left: 856px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    position: absolute;
+    height: 369px;
+  }
+  
+  .frame .reservar-3 {
+    position: relative;
+    top: 16px;
+    left: 97px;
+    display: flex;
+    width: 3%;
+    height: 7%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 8px 81px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    overflow: hidden;
+  }
+  
+  .frame .overlap-3 {
+    height: 290px;
+    position: absolute;
+    width: 305px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .text-wrapper-13 {
+    position: absolute;
+    top: 6px;
+    left: 116px;
+    -webkit-text-stroke: 0.6px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  
+  .frame .caja-articulo-4 {
+    width: 305px;
+    top: 124px;
+    left: 428px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    position: absolute;
+    height: 369px;
+  }
+  
+  .frame .text-wrapper-14 {
+    position: absolute;
+    top: 6px;
+    left: 100px;
+    -webkit-text-stroke: 0.6px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .caja-articulo-5 {
+    width: 305px;
+    top: 124px;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    position: absolute;
+    height: 369px;
+  }
+  
+  .frame .reservar-4 {
+    position: relative;
+    top: 16px;
+    left: 78px;
+    display: flex;
+    width: 3%;
+    height: 7%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 8px 81px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    overflow: hidden;
+  }
+  
+  .frame .text-wrapper-15 {
+    position: absolute;
+    top: 8px;
+    left: 73px;
+    -webkit-text-stroke: 0.6px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-16 {
+    position: absolute;
+    top: -2px;
+    left: 343px;
+    -webkit-text-stroke: 1px #202332;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #202332;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+
+  /* SCOOTERS SECCION */
+  .frame .scooters {
+    position: absolute;
+    width: 1161px;
+    height: 485px;
+    top: 1276px;
+    left: 138px;
+  }
+  
+  .frame .caja-articulo {
+    position: absolute;
+    width: 305px;
+    height: 369px;
+    top: 116px;
+    left: 856px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+  }
+  
+  .frame .overlap-group-2 {
+    position: relative;
+    height: 369px;
+  }
+  
+  .frame .div-2 {
+    position: absolute;
+    width: 305px;
+    height: 74px;
+    top: 295px;
+    left: 0;
+    background-color: #202331;
+    border-radius: 0px 0px 30px 30px;
+  }
+  
+  .frame .div-3 {
+    position: absolute;
+    width: 305px;
+    height: 74px;
+    top: 0;
+    left: 0;
+    background-color: #202331;
+    border-radius: 30px 30px 0px 0px;
+  }
+  
+  .frame .text-wrapper-5 {
+    position: absolute;
+    top: 8px;
+    left: 75px;
+    -webkit-text-stroke: 0.6px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-6 {
+    position: absolute;
+    top: 39px;
+    left: 100px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .reservar {
+    position: absolute;
+    top: 310px;
+    left: 75px;
+    display: flex;
+    width: 3%;
+    height: 7%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 8px 81px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    overflow: hidden;
+  }
+  
+  .frame .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -4px;
+    margin-left: -53.5px;
+    margin-right: -52.5px;
+    -webkit-text-stroke: 0.5px #202332;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #202332;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .image {
+    position: absolute;
+    width: 252px;
+    height: 315px;
+    top: 27px;
+    left: 36px;
+    object-fit: cover;
+  }
+  
+  .frame .caja-a-articulo {
+    position: absolute;
+    width: 305px;
+    height: 369px;
+    top: 116px;
+    left: 428px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+  }
+  
+  .frame .div-wrapper {
+    position: relative;
+    top: 16px;
+    left: 79px;
+    display: flex;
+    width: 148px;
+    height: 42px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 8px 81px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    overflow: hidden;
+  }
+  
+  .frame .text-wrapper-8 {
+    position: absolute;
+    top: 6px;
+    left: 102px;
+    -webkit-text-stroke: 0.6px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-9 {
+    position: absolute;
+    top: 39px;
+    left: 114px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 260px;
+    height: 203px;
+    top: 86px;
+    left: 35px;
+  }
+  
+  .frame .caja-articulo-2 {
+    width: 305px;
+    top: 116px;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    position: absolute;
+    height: 369px;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 305px;
+    height: 295px;
+    top: 74px;
+    left: 0;
+  }
+  
+  .frame .rectangle-2 {
+    top: 221px;
+    left: 0;
+    position: absolute;
+    width: 305px;
+    height: 74px;
+    background-color: #202331;
+    border-radius: 0px 0px 30px 30px;
+  }
+  
+  .frame .reservar-2 {
+    position: absolute;
+    top: 235px;
+    left: 65px;
+    display: flex;
+    width: 3%;
+    height: 7%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 8px 81px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    overflow: hidden;
+  }
+  
+  .frame .text-wrapper-10 {
+    position: absolute;
+    top: 8px;
+    left: 83px;
+    -webkit-text-stroke: 0.6px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-11 {
+    position: absolute;
+    top: 39px;
+    left: 106px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-12 {
+    position: absolute;
+    top: -2px;
+    left: 390px;
+    -webkit-text-stroke: 1px #202332;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #202332;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  /* MAPA SECCION ¨*/
+  
+  .frame .mapa {
+    position: absolute;
+    width: 571px;
+    height: 454px;
+    top: 1822px;
+    left: 435px;
+  }
+  
+  .frame .mapa-2 {
+    position: absolute;
+    width: 571px;
+    height: 360px;
+    top: 94px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 5px solid;
+    border-color: #202332;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 562px;
+    height: 295px;
+    top: 1px;
+    left: -1px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 243px;
+    height: 36px;
+    top: 304px;
+    left: -2px;
+    -webkit-text-stroke: 0.5px #000000;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #202332;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-4 {
+    position: absolute;
+    top: -2px;
+    left: 36px;
+    -webkit-text-stroke: 1px #202332;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #202332;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+
+  /* FOOTER */
+  
+  .frame .footer {
+    position: absolute;
+    width: 100%;
+    height: 156px;
+    top: 2341px;
+    left: 0;
+    background-color: #202332;
+  }
+  
+  .frame .renta-tu-auto-el {
+    position: absolute;
+    width: 295px;
+    top: 42px;
+    left: 181px;
+    -webkit-text-stroke: 1px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 631px;
+    height: 67px;
+    top: 52px;
+    left: 810px;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 295px;
+    top: 0;
+    left: 0;
+    -webkit-text-stroke: 0.5px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div {
+    position: absolute;
+    width: 201px;
+    top: 0;
+    left: 277px;
+    -webkit-text-stroke: 0.5px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    width: 201px;
+    top: 0;
+    left: 430px;
+    -webkit-text-stroke: 0.5px #ffffff;
+    font-family: "Italiana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .logo {
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 30%;
+    left: -0%;
+    background-image: url(./img/steering-wheel.png);
+    background-size: 100% 100%;
+  }
+
+
+  /* BTN3 */
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #btnAbrirModal {
+    margin-top: 5%;
+    margin-left: 20px;
+    padding: 15px 30px; /* Tamaño recomendado */
+    border-radius: 50px;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05); /* Modifiqué la sombra */
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all 0.5s ease;
+    color: #180330;
+  }
+  
+
+  #btnAbrirModal:hover {
+    letter-spacing: 3px;
+    background-color: hsl(261, 75%, 13%);
+    color: #ffffff;;
+    box-shadow: rgb(255, 255, 255) 0px 7px 29px 0px;
+  }
+  
+  #btnAbrirModal:active {
+    letter-spacing: 3px;
+    background-color: hsl(0, 0%, 77%);
+    color: #202332;;
+    box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px;
+    transform: translateY(5px);
+    transition: 100ms;
+  }
+
+  nav{
+    display: flex;
+    align-items:end;
+    justify-content: space-between;
+    padding-bottom: 20px 5%;
+    font-weight: bold;
+}
+
+ul li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a :hover {
+    color: rgb(0, 247, 255);
+}
+
+/* FORMS POP UP */
+
+/* FORM 5 */
+
+#modal {
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  padding: 40px;
+  margin: 20px auto;
+  background: rgba(0,0,0,.9);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 10px;
+  width: 18em;
+  height: 20em;
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: none;
+}
+
+#modal p {
+  margin: 0 0 30px;
+  padding: 0;
+  color: #fff;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+#modal .user-box {
+  position: relative;
+}
+
+#modal .user-box input {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  outline: none;
+  background: transparent;
+}
+
+#modal .user-box label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #fff;
+  pointer-events: none;
+  transition: .5s;
+}
+
+#modal .user-box input:focus ~ label,
+#modal .user-box input:valid ~ label {
+  top: -20px;
+  left: 0;
+  color: #fff;
+  font-size: 12px;
+}
+
+#modal form a {
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  font-weight: bold;
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 0.3%px;
+  letter-spacing: 3px;
+}
+
+#modal a:hover {
+  background: #fff;
+  color: #272727;
+  border-radius: 5px;
+}
+
+#modal a span {
+  position: absolute;
+  display: block;
+}
+
+.login-box a.a2:hover {
+  background: transparent;
+  color: #aaa;
+  border-radius: 5px;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  z-index: 9999; /* Asegura que el popup esté por encima de otros elementos */
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999; /* Asegura que el overlay esté por encima de otros elementos */
+}
+
+
+
+
+
+
+
+  
+  
